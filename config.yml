@@ -10,7 +10,7 @@ description: # a longer description for your Learning Lab course, displayed on t
 
 template:
   name:     learn-git
-  repo:     learn-git
+  repo:     lab-starter-template
 
 # `before` block
 # Actions to take place after the learner registers, but before they start interacting with their repo
