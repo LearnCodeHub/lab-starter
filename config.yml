@@ -35,4 +35,4 @@ steps:
     operator: ===                         # check for strict equality, see more at https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Comparison_Operators#Identity
     right: Add name to README
     - type: respond
-      with: pr-opened.md
+      body: pr-opened.md
