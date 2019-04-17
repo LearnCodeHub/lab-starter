@@ -9,8 +9,8 @@ description: # a longer description for your Learning Lab course, displayed on t
 # This will be used when the repository is crated for each individual learner
 
 template:
-  name:     learn-github
-  repo:     lab-learner-template
+  name:     learn-git
+  repo:     learn-git
 
 # `before` block
 # Actions to take place after the learner registers, but before they start interacting with their repo
