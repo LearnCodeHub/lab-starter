@@ -9,7 +9,7 @@ description: # a longer description for your Learning Lab course, displayed on t
 # This will be used when the repository is crated for each individual learner
 
 template:
-  name:     learn-git
+  name:     git-sparkles
   repo:     lab-starter-template
 
 # `before` block
