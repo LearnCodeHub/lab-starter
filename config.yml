@@ -10,8 +10,8 @@ in this course you will learn how you can set up git and how you can create a re
 # This will be used when the repository is crated for each individual learner
 
 template:
-  name: # the name of the repository when it is created for the learner
-  repo: # the name of the template repository from which to clone for the learner
+  name:     git-sparkles
+  repo:     lab-starter-template
 
 # `before` block
 # Actions to take place after the learner registers, but before they start interacting with their repo
